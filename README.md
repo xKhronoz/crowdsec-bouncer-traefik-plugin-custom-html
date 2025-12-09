@@ -1,0 +1,1 @@
+# crowdsec-bouncer-traefik-plugin-custom-html
